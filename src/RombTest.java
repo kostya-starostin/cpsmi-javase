@@ -1,5 +1,5 @@
 /**
- * Created by jetbrains on 27/03/17.
+ * Created by me on 27/03/17.
  */
 public class RombTest {    public static void main(String[] args) {
     Obedatel myObedatel = new Obedatel();
